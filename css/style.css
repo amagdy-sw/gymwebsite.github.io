@@ -13,3 +13,9 @@ body {
 footer{
     padding-bottom: 4rem;
 }
+
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+  display: block;
+}
